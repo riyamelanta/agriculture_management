@@ -1,0 +1,58 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="label.css">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+<body >
+	<h1 style="color:brown;margin-left:40px;margin-top: 20px;">LABEL</h1>
+	<hr style="color:brown;">
+
+<div class="container bootstrap snippets bootdey" style="margin-left:400px;">
+    <div class="row" >
+        <div class="col-md-5" >
+            <div class="widget-head-color-box lazur-bg p-lg text-center" >
+                <div class="m-b-md">
+                <h2 class="font-bold no-margins">
+                    red                </h2>
+                    <small>#000f2</small>
+                </div>
+                <img src="images/plogo.png" width="150px" height="100px" alt="profile">
+                <div style="margin-top:30px;">
+                    <span>100 Tweets</span> |
+                    <span>350 Following</span> |
+                    <span>610 Followers</span>
+                </div>
+            </div>
+            <div class="widget-text-box">
+            	<div style="display:flex;flex-direction: column;align-items: left;padding: 8px;">
+                <h5 class="media-heading">Color Code: <span style="color:gray">#000f2</span></h5>
+                <h5 class="media-heading">Color Type: <span style="color:gray">#000f2</span></h5>
+                <h5 class="media-heading">Color Name: <span style="color:gray">red</span></h5>
+                <h5 class="media-heading">Prepared on: <span style="color:gray">2023-04-10 15:56:34.724180</span></h5>
+                <h5 class="media-heading">File No: <span style="color:gray">FI8272013</span></h5>
+                <h5 class="media-heading">Quantity: <span style="color:gray">2 Ltr</span></h5>
+                <h5 class="media-heading">Price: <span style="color:gray">2 AED</span></h5>
+            </div>
+                               <div class="text-right">
+                    <!-- <a class="btn btn-xs btn-default"><i class="fa fa-thumbs-up"></i> Download</a> -->
+                    <a href="" class="btn btn-xs btn-primary" download="label.doc"><i class="fa fa-download" ></i> Download</a>
+                    <a class="btn btn-xs btn-success" onclick="window.print()"><i class="fa fa-print" ></i> Print</a>
+                    <a class="btn btn-xs btn-info"><i class="fas fa-arrow-left"></i> Back</a>
+                </div>
+            </div>
+        </div>
+	</div>
+</div>
+</body>
+</html>

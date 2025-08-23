@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 20 Mar 2023 12:24:39 at http://layerdrops.com/agrikol/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://layerdrops.com/agrikol/ -O1 "C:\xampp\htdocs\newpxi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:36:53	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/css/owl.video.play.png (from layerdrops.com/agrikol/assets/css/owl.carousel.min.css)
+12:36:54	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/css/..bfonts/fa-regular-400.woff (from layerdrops.com/agrikol/assets/css/fontawesome-all.min.css)
+12:36:54	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/css/..bfonts/fa-solid-900.svg (from layerdrops.com/agrikol/assets/css/fontawesome-all.min.css)
+12:36:54	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/css/mCSB_buttons.png (from layerdrops.com/agrikol/assets/css/jquery.mCustomScrollbar.min.css)
+12:36:54	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/css/overlays/02.png (from layerdrops.com/agrikol/assets/css/vegas.min.css)
+12:37:00	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/images/icon/bx_loader.gif (from layerdrops.com/agrikol/assets/css/jquery.bxslider.css)
+12:37:00	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/img/bx-slider/controls.png (from layerdrops.com/agrikol/assets/css/jquery.bxslider.css)
+12:37:00	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/css/images/ui-icons_444444_256x240.png (from layerdrops.com/agrikol/assets/css/jquery-ui.css)
+12:37:00	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/css/images/ui-icons_555555_256x240.png (from layerdrops.com/agrikol/assets/css/jquery-ui.css)
+12:37:00	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/css/images/ui-icons_777620_256x240.png (from layerdrops.com/agrikol/assets/css/jquery-ui.css)
+12:37:00	Error: 	"Not Found" (404) at link layerdrops.com/agrikol/assets/css/images/ui-icons_cc0000_256x240.png (from layerdrops.com/agrikol/assets/css/jquery-ui.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 21 seconds : 268 links scanned, 256 files written (21196927 bytes overall) [18422058 bytes received at 24861 bytes/sec], 4188562 bytes transferred using HTTP compression in 83 files, ratio 31%, 3.7 requests per connection
+(11 errors, 0 warnings, 0 messages)
